@@ -1,0 +1,2 @@
+Arquivo criado com o intuito de aprender GIT
+
