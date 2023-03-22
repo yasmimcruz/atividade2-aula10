@@ -1,2 +1,2 @@
-Arquivo criado com o intuito de aprender GIT
+Arquivo alterado no repositório remoto para atualizar meu repositório local.
 
